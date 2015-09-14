@@ -1,6 +1,7 @@
 # lita-auvik-aws
 
 [![Build Status](https://travis-ci.org/digitaljedi2/lita-auvik-aws.png?branch=master)](https://travis-ci.org/digitaljedi2/lita-auvik-aws)
+[![Build Status](https://travis-ci.org/auvik/lita-auvik-aws.svg?branch=master)](https://travis-ci.org/auvik/lita-auvik-aws)
 [![Coverage Status](https://coveralls.io/repos/digitaljedi2/lita-auvik-aws/badge.png)](https://coveralls.io/r/digitaljedi2/lita-auvik-aws)
 
 This plugin handler will return a table response from the aws cli.  This will work with different profiles if you set them up under the
