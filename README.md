@@ -15,8 +15,8 @@ gem "lita-auvik-aws"
 
 ## Configuration
 
-TODO: Describe any configuration attributes the plugin exposes.
+Place an ~/.aws/config and ~/.aws/credentials file uder the user that lita runs as.
 
 ## Usage
 
-TODO: Describe the plugin's features and how to use them.
+lita aws <profile> will print out all running ec2 instances under the profile setup 
