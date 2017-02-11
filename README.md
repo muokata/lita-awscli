@@ -1,4 +1,4 @@
-# lita-aws
+# lita-awscli
 
 
 This plugin handler will return a table response from the aws cli.  This will work with different profiles if you set them up under the
@@ -12,10 +12,10 @@ Requires awscli
 $ pip install awscli
 ```
 
-Add lita-aws to your Lita instance's Gemfile:
+Add lita-awscli to your Lita instance's Gemfile:
 
 ``` ruby
-gem "lita-aws", git: 'https://github.com/muokata/lita-aws.git'
+gem "lita-awscli", git: 'https://github.com/muokata/lita-awscli.git'
 ```
 
 ## Configuration

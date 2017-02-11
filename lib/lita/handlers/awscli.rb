@@ -1,8 +1,8 @@
 module Lita
   module Handlers
-    class AuvikAws < Handler
+    class AwsCli < Handler
 
-      # Auvik handler
+      # AwsCli handler
       
       route(/^aws\s(\w+)/, :aws, help: { "aws " => "aws `prod`|`develop`|`build` returns running EC2 instances on those accounts/" })
 

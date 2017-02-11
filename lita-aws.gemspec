@@ -1,5 +1,5 @@
 Gem::Specification.new do |spec|
-  spec.name          = "lita-aws"
+  spec.name          = "lita-awscli"
   spec.version       = "0.1.0"
   spec.authors       = ["Write your name"]
   spec.email         = ["Write your email address"]
