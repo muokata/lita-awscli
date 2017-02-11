@@ -15,7 +15,7 @@ $ pip install awscli
 Add lita-aws to your Lita instance's Gemfile:
 
 ``` ruby
-gem "lita-aws", git: 'git@github.com:muokata/lita-aws.git'
+gem "lita-aws", git: 'https://github.com/muokata/lita-aws.git'
 ```
 
 ## Configuration
