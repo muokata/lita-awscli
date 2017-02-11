@@ -1,7 +1,5 @@
 # lita-auvik-aws
 
-[![Build Status](https://travis-ci.org/auvik/lita-auvik-aws.svg?branch=master)](https://travis-ci.org/auvik/lita-auvik-aws)
-[![Coverage Status](https://coveralls.io/repos/auvik/lita-auvik-aws/badge.svg?branch=master&service=github)](https://coveralls.io/github/auvik/lita-auvik-aws?branch=master)
 
 This plugin handler will return a table response from the aws cli.  This will work with different profiles if you set them up under the
 account in which this lita bot runs under
