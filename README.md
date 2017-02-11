@@ -25,3 +25,9 @@ Place an ~/.aws/config and ~/.aws/credentials file uder the user that lita runs 
 ## Usage
 
 lita aws <profile> will print out all running ec2 instances under the profile setup 
+
+
+
+### credits
+
+forked from https://github.com/auvik/lita-auvik-aws
