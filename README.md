@@ -6,6 +6,12 @@ account in which this lita bot runs under
 
 ## Installation
 
+Requires awscli
+
+```bash
+$ pip install awscli
+```
+
 Add lita-aws to your Lita instance's Gemfile:
 
 ``` ruby
