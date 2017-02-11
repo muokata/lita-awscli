@@ -1,12 +1,12 @@
 Gem::Specification.new do |spec|
-  spec.name          = "lita-auvik-aws"
+  spec.name          = "lita-aws"
   spec.version       = "0.1.0"
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
-  spec.description   = "TODO: Add a description"
-  spec.summary       = "TODO: Add a summary"
-  spec.homepage      = "TODO: Add a homepage"
-  spec.license       = "TODO: Add a license"
+  spec.authors       = ["Write your name"]
+  spec.email         = ["Write your email address"]
+  spec.description   = "Add a description"
+  spec.summary       = "Add a summary"
+  spec.homepage      = "http://localhost"
+  spec.license       = "Add a license"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
   spec.files         = `git ls-files`.split($/)
